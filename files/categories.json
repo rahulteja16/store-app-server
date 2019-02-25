@@ -1,0 +1,32 @@
+{
+  "categories":[
+    {
+      "id":3,
+      "label":"Snacks",
+      "name": "snacks",
+      "openIcon":"http://localhost:3000/img/snacks-open.png",
+      "sleepIcon":"http://localhost:3000/img/snacks-sleep.png"
+    },
+    {
+      "id":2,
+      "label":"Gifts",
+      "name": "gifts",
+      "openIcon":"http://localhost:3000/img/gifts-open.png",
+      "sleepIcon":"http://localhost:3000/img/gifts-sleep.png"
+    },
+    {
+      "id":1,
+      "label":"Restaurants",
+      "name": "restaurants",
+      "openIcon":"http://localhost:3000/img/restaurants-open.png",
+      "sleepIcon":"http://localhost:3000/img/restaurants-sleep.png"
+    },
+    {
+      "id":4,
+      "label":"Wonders",
+      "name": "wonders",
+      "openIcon":"http://localhost:3000/img/wonders-open.png",
+      "sleepIcon":"http://localhost:3000/img/wonders-sleep.png"
+    }
+  ]
+}

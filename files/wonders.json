@@ -1,0 +1,12 @@
+{
+  "stores": [
+    {
+      "id": 1,
+      "name": "Wonderful shop",
+      "description": "The finest amongst the finest",
+      "tags": [],
+      "schedule": [
+      ]
+    }
+  ]
+}

@@ -1,0 +1,145 @@
+{
+  "stores": [
+    {
+      "id": 11,
+      "name": "Watch me",
+      "description": "You will not be able to stop watching our watches",
+      "tags": [
+        "watches"
+      ],
+      "schedule": [
+        {
+          "day": 0,
+          "open": "10:00",
+          "close": "18:00"
+        },
+        {
+          "day": 1,
+          "open": "10:00",
+          "close": "18:00"
+        },
+        {
+          "day": 2,
+          "open": "10:00",
+          "close": "18:00"
+        },
+        {
+          "day": 3,
+          "open": "10:00",
+          "close": "18:00"
+        },
+        {
+          "day": 4,
+          "open": "10:00",
+          "close": "18:00"
+        },
+        {
+          "day": 5,
+          "open": "10:00",
+          "close": "18:00"
+        },
+        {
+          "day": 6,
+          "open": "10:00",
+          "close": "13:00"
+        }
+      ]
+    },
+    {
+      "id": 12,
+      "name": "Shockolate",
+      "description": "Directly to your heart",
+      "tags": [
+        "chocolate",
+        "food"
+      ],
+      "schedule": [
+        {
+          "day": 0,
+          "open": "09:00",
+          "close": "17:00"
+        },
+        {
+          "day": 1,
+          "open": "09:00",
+          "close": "17:00"
+        },
+        {
+          "day": 2,
+          "open": "09:00",
+          "close": "17:00"
+        },
+        {
+          "day": 4,
+          "open": "09:00",
+          "close": "17:00"
+        },
+        {
+          "day": 5,
+          "open": "09:00",
+          "close": "17:00"
+        },
+        {
+          "day": 6,
+          "open": "09:00",
+          "close": "13:00"
+        }
+      ]
+    },
+    {
+      "id": 13,
+      "name": "Everything for 1€",
+      "description": "EVERYTHING",
+      "tags": [
+        "watches",
+        "food",
+        "chocolate"
+      ],
+      "schedule": [
+        {
+          "day": 0,
+          "open": "10:00",
+          "close": "17:17"
+        },
+        {
+          "day": 1,
+          "open": "10:00",
+          "close": "17:17"
+        },
+        {
+          "day": 2,
+          "open": "10:00",
+          "close": "17:17"
+        },
+        {
+          "day": 3,
+          "open": "10:00",
+          "close": "17:17"
+        },
+        {
+          "day": 4,
+          "open": "10:00",
+          "close": "17:17"
+        },
+        {
+          "day": 5,
+          "open": "10:00",
+          "close": "13:17"
+        }
+      ]
+    },
+    {
+      "id": 14,
+      "name": "Only 1hour shop",
+      "description": "Nothing to see here",
+      "tags": [],
+      "schedule": [
+        {
+          "day": 1,
+          "open": "10:00",
+          "close": "13:59"
+        }
+      ]
+    }
+  ]
+}

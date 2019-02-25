@@ -1,0 +1,161 @@
+{
+  "stores": [
+    {
+      "id": 7,
+      "name": "Do-not doughnots",
+      "description": "The doughnots that you should not eat",
+      "tags": ["american", "fat"],
+      "schedule": [
+        {
+          "day": 0,
+          "open": "07:00",
+          "close": "23:00"
+        },
+        {
+          "day": 1,
+          "open": "07:00",
+          "close": "23:00"
+        },
+        {
+          "day": 2,
+          "open": "07:00",
+          "close": "23:00"
+        },
+        {
+          "day": 3,
+          "open": "07:00",
+          "close": "23:00"
+        },
+        {
+          "day": 4,
+          "open": "07:00",
+          "close": "23:00"
+        },
+        {
+          "day": 5,
+          "open": "07:00",
+          "close": "23:00"
+        },
+        {
+          "day": 6,
+          "open": "07:00",
+          "close": "23:00"
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "name": "Healthy Breakfasts",
+      "description": "Healthy also in the morning",
+      "tags": ["healthy", "breakfast"],
+      "schedule": [
+        {
+          "day": 3,
+          "open": "06:00",
+          "close": "11:00"
+        },
+        {
+          "day": 1,
+          "open": "06:00",
+          "close": "11:00"
+        },
+        {
+          "day": 2,
+          "open": "06:00",
+          "close": "11:00"
+        },
+        {
+          "day": 4,
+          "open": "06:00",
+          "close": "11:00"
+        },
+        {
+          "day": 5,
+          "open": "06:00",
+          "close": "11:00"
+        },
+        {
+          "day": 6,
+          "open": "06:00",
+          "close": "11:00"
+        }
+      ]
+    },
+    {
+      "id": 9,
+      "name": "Kofi or naan",
+      "description": "What goes better with coffee, that a naan bread",
+      "tags": ["indian", "breakfast", "coffee"],
+      "schedule": [
+        {
+          "day": 0,
+          "open": "06:00",
+          "close": "15:00"
+        },
+        {
+          "day": 1,
+          "open": "06:00",
+          "close": "15:00"
+        },
+        {
+          "day": 2,
+          "open": "06:00",
+          "close": "15:00"
+        },
+        {
+          "day": 3,
+          "open": "06:00",
+          "close": "15:00"
+        },
+        {
+          "day": 4,
+          "open": "06:00",
+          "close": "15:00"
+        },
+        {
+          "day": 5,
+          "open": "06:00",
+          "close": "15:00"
+        }
+      ]
+    },
+    {
+      "id": 10,
+      "name": "Hell thy",
+      "description": "Even if it's hell it can be healthy",
+      "tags": ["healthy"],
+      "schedule": [
+        {
+          "day": 1,
+          "open": "08:00",
+          "close": "20:00"
+        },
+        {
+          "day": 2,
+          "open": "08:00",
+          "close": "20:00"
+        },
+        {
+          "day": 3,
+          "open": "08:00",
+          "close": "20:00"
+        },
+        {
+          "day": 4,
+          "open": "08:00",
+          "close": "20:00"
+        },
+        {
+          "day": 5,
+          "open": "08:00",
+          "close": "20:00"
+        },
+        {
+          "day": 6,
+          "open": "08:00",
+          "close": "20:00"
+        }
+      ]
+    }
+  ]
+}

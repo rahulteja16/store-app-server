@@ -1,0 +1,258 @@
+{
+  "stores": [
+    {
+      "id": 1,
+      "name": "Fat burgers",
+      "description": "Very good burgers, not fat at all",
+      "tags": [
+        "burgers",
+        "american",
+        "fat"
+      ],
+      "schedule": [
+        {
+          "day": 0,
+          "open": "12:00",
+          "close": "23:00"
+        },
+        {
+          "day": 1,
+          "open": "12:00",
+          "close": "23:00"
+        },
+        {
+          "day": 2,
+          "open": "12:00",
+          "close": "23:00"
+        },
+        {
+          "day": 3,
+          "open": "12:00",
+          "close": "23:00"
+        },
+        {
+          "day": 4,
+          "open": "12:00",
+          "close": "23:00"
+        },
+        {
+          "day": 5,
+          "open": "12:00",
+          "close": "23:00"
+        },
+        {
+          "day": 6,
+          "open": "12:00",
+          "close": "23:00"
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "name": "Spicy Indian Food",
+      "description": "From Dheli to your table",
+      "tags": [
+        "indian",
+        "spicy"
+      ],
+      "schedule": [
+        {
+          "day": 0,
+          "open": "12:00",
+          "close": "22:00"
+        },
+        {
+          "day": 1,
+          "open": "12:00",
+          "close": "22:00"
+        },
+        {
+          "day": 2,
+          "open": "12:00",
+          "close": "22:00"
+        },
+        {
+          "day": 4,
+          "open": "12:00",
+          "close": "22:00"
+        },
+        {
+          "day": 5,
+          "open": "12:00",
+          "close": "22:00"
+        },
+        {
+          "day": 6,
+          "open": "12:00",
+          "close": "22:00"
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "name": "Mamma mia",
+      "description": "It's me, Mario",
+      "tags": [
+        "italian",
+        "pizza",
+        "fat"
+      ],
+      "schedule": [
+        {
+          "day": 0,
+          "open": "12:00",
+          "close": "17:00"
+        },
+        {
+          "day": 1,
+          "open": "12:00",
+          "close": "17:00"
+        },
+        {
+          "day": 2,
+          "open": "12:00",
+          "close": "17:00"
+        },
+        {
+          "day": 3,
+          "open": "12:00",
+          "close": "17:00"
+        },
+        {
+          "day": 4,
+          "open": "12:00",
+          "close": "17:00"
+        },
+        {
+          "day": 5,
+          "open": "12:00",
+          "close": "17:00"
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "name": "Ve-mine",
+      "description": "Vegan food only for you",
+      "tags": [
+        "vegan",
+        "healthy"
+      ],
+      "schedule": [
+        {
+          "day": 1,
+          "open": "08:00",
+          "close": "15:00"
+        },
+        {
+          "day": 2,
+          "open": "08:00",
+          "close": "15:00"
+        },
+        {
+          "day": 3,
+          "open": "08:00",
+          "close": "15:00"
+        },
+        {
+          "day": 4,
+          "open": "08:00",
+          "close": "15:00"
+        },
+        {
+          "day": 5,
+          "open": "08:00",
+          "close": "15:00"
+        },
+        {
+          "day": 6,
+          "open": "08:00",
+          "close": "17:00"
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "name": "Not-so-fat burgers",
+      "description": "Not-so-good burgers",
+      "tags": [
+        "burgers",
+        "american"
+      ],
+      "schedule": [
+        {
+          "day": 0,
+          "open": "12:00",
+          "close": "23:00"
+        },
+        {
+          "day": 1,
+          "open": "12:00",
+          "close": "23:00"
+        },
+        {
+          "day": 2,
+          "open": "12:00",
+          "close": "23:00"
+        },
+        {
+          "day": 3,
+          "open": "12:00",
+          "close": "23:00"
+        },
+        {
+          "day": 4,
+          "open": "12:00",
+          "close": "23:00"
+        },
+        {
+          "day": 5,
+          "open": "12:00",
+          "close": "23:00"
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "name": "Chicago pizzas",
+      "description": "Pizzas, but not from italy",
+      "tags": [
+        "pizza",
+        "american",
+        "fat"
+      ],
+      "schedule": [
+        {
+          "day": 0,
+          "open": "12:00",
+          "close": "23:00"
+        },
+        {
+          "day": 1,
+          "open": "12:00",
+          "close": "23:00"
+        },
+        {
+          "day": 2,
+          "open": "12:00",
+          "close": "23:00"
+        },
+        {
+          "day": 3,
+          "open": "12:00",
+          "close": "23:00"
+        },
+        {
+          "day": 4,
+          "open": "12:00",
+          "close": "23:00"
+        },
+        {
+          "day": 6,
+          "open": "12:00",
+          "close": "23:00"
+        }
+      ]
+    }
+  ]
+}
